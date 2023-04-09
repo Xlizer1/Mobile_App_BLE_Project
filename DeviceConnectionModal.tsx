@@ -64,7 +64,7 @@ const DeviceModal: FC<DeviceModalProps> = props => {
       visible={visible}>
       <SafeAreaView style={modalStyle.modalTitle}>
         <Text style={modalStyle.modalTitleText}>
-          Tap on a device to connect
+          Tap on a device to connect!
         </Text>
         <FlatList
           contentContainerStyle={modalStyle.modalFlatlistContiner}

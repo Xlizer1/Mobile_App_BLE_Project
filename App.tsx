@@ -50,7 +50,7 @@ const App = () => {
           </>
         ) : (
           <Text style={styles.heartRateTitleText}>
-            Please Connect to a Heart Rate Monitor
+            Please Connect to a Heart Rate Device
           </Text>
         )}
       </View>

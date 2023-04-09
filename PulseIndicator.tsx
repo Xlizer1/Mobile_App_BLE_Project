@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
   animationContainer: {
     width: 250,
     height: 160,
-    marginBottom: 30,
+    marginBottom: 32,
   },
 });
 

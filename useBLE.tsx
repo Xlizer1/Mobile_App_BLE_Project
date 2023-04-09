@@ -146,7 +146,7 @@ function useBLE(): BluetoothLowEnergyApi {
         (error, characteristic) => onHeartRateUpdate(error, characteristic),
       );
     } else {
-      console.log('No Device Connected');
+      console.log('No Device Connected!');
     }
   };
 
